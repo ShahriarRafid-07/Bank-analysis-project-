@@ -40,4 +40,4 @@ This project analyzes banking data to gain insights into customer behavior, inco
    pip install -r requirements.txt
 
 
-https://github.com/ShahriarRafid-07/Bank-analysis-project-/blob/7cec58fb3f95aa231b5ef9c7577a1885ae1e6cbf/analysis.png
+![image alt](https://github.com/ShahriarRafid-07/Bank-analysis-project-/blob/7cec58fb3f95aa231b5ef9c7577a1885ae1e6cbf/analysis.png)
